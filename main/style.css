@@ -1,0 +1,132 @@
+.navbar-brand-text {
+  font-size: 15px;
+  font-weight:none;
+  margin-left: 5px;
+  color: green;
+  font-style: italic;
+}
+
+
+.carousel-item {
+  height: 300px; 
+}
+
+
+.col-md-4 img {
+  border-radius: 10px;
+  width: 250px; 
+  height: 160px;
+
+}
+
+.col-md-4 {
+  margin-bottom: 20px; 
+}
+
+.col-md-4:nth-child(3n+1) img {
+  margin-bottom: 20px; 
+}
+
+.col-md-4:last-child {
+  margin-right: 0;
+}
+
+
+/* Styles for footer columns */
+.footer-column {
+  /* Add your footer column styles here */
+  background-color: #f0f0f0; /* Example background color for footer columns */
+  padding: 10px; /* Example padding for footer columns */
+}
+
+/* Styles for the three columns after the footer */
+.main-column {
+  /* Add your main column styles here */
+  background-color: #e0e0e0; /* Example background color for main columns */
+  padding: 10px; /* Example padding for main columns */
+}
+
+.navbar-brand-text {
+  font-size: 15px;
+  font-weight: none;
+  margin-left: 5px;
+  color: green;
+  font-style: italic;
+}
+
+.carousel-item {
+  height: 300px;
+}
+
+.col-md-4 img {
+  border-radius: 10px;
+  width: 250px;
+  height: 160px;
+}
+
+.col-md-4 {
+  margin-bottom: 20px;
+}
+
+.col-md-4:nth-child(3n+1) img {
+  margin-bottom: 20px;
+}
+
+.col-md-4:last-child {
+  margin-right: 0;
+}
+
+.icon {
+  max-width: 100%;
+  height: auto;
+  border-radius: 50%;
+  border: 2px solid #000;
+  display: block;
+  margin: 0 auto;
+  max-width: 50px; 
+  height: 30px;
+}
+.col-md-4 .icon {
+  border-radius: 50%;
+}
+
+
+.centered-content {
+  text-align: center;
+}
+
+.centered-content h6,
+.centered-content p {
+  display: inline-block;
+}
+
+
+
+.full-width-container {
+  width: 60%;
+  background-color: hwb(120 82% 4%);
+  margin: 0 auto; /* Center the container horizontally */
+  text-align: center; /* Center the text within the container */
+  padding: 20px; /* Add padding as needed */
+  height: 95px;
+  border-radius: 5px;
+}
+
+.content-column {
+  max-width: 500px;
+  margin: 0 auto; /* Center the column horizontally within the container */
+  color: #000;
+}
+
+
+.different-class-name {
+  text-align: left;
+}
+
+.different-class-name img {
+  margin-right: 10px; /* Add some spacing to the right of the image */
+  vertical-align: middle; /* Vertically align the image in the middle of the container */
+}
+
+
+
