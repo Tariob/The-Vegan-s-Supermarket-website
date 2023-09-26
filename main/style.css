@@ -8,9 +8,15 @@
 
 
 .carousel-item {
-  height: 300px; 
+  height: 600px; 
 }
 
+.carousel-inner {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  height: 400px;
+}
 
 .col-md-4 img {
   border-radius: 10px;
@@ -32,18 +38,17 @@
 }
 
 
-/* Styles for footer columns */
+
 .footer-column {
-  /* Add your footer column styles here */
-  background-color: #f0f0f0; /* Example background color for footer columns */
-  padding: 10px; /* Example padding for footer columns */
+  
+  background-color: #f0f0f0; 
+  padding: 10px;
 }
 
-/* Styles for the three columns after the footer */
 .main-column {
-  /* Add your main column styles here */
-  background-color: #e0e0e0; /* Example background color for main columns */
-  padding: 10px; /* Example padding for main columns */
+ 
+  background-color: #e0e0e0; 
+  padding: 10px;
 }
 
 .navbar-brand-text {
@@ -105,16 +110,16 @@
 .full-width-container {
   width: 60%;
   background-color: hwb(120 82% 4%);
-  margin: 0 auto; /* Center the container horizontally */
-  text-align: center; /* Center the text within the container */
-  padding: 20px; /* Add padding as needed */
+  margin: 0 auto; 
+  text-align: center; 
+  padding: 20px; 
   height: 95px;
   border-radius: 5px;
 }
 
 .content-column {
   max-width: 500px;
-  margin: 0 auto; /* Center the column horizontally within the container */
+  margin: 0 auto; 
   color: #000;
 }
 
@@ -124,8 +129,8 @@
 }
 
 .different-class-name img {
-  margin-right: 10px; /* Add some spacing to the right of the image */
-  vertical-align: middle; /* Vertically align the image in the middle of the container */
+  margin-right: 10px; 
+  vertical-align: middle;
 }
 
 
